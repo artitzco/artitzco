@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Contact me ✉️:  [artitzco@proton.me](https://artitzco.github.io/util/contact.html)
+✉️ Contact me:  [artitzco@proton.me](https://artitzco.github.io/util/contact.html)
 
 <!--
 **artitzco/artitzco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
