@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Contact to me: artitzco@proton.me](https://artitzco.github.io/util/sendme/amessage.html)
+Contact to me:  [artitzco@proton.me](https://artitzco.github.io/util/sendmeamessage.html)
 
 <!--
 **artitzco/artitzco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
