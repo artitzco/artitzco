@@ -20,4 +20,4 @@ I am a **Mathematician & Data Scientist** passionate about turning data into act
 <br/>
 
 ### 📫 Let's Connect!
-Ready to collaborate? **[👉 Reach out on my contact page](https://artitzco.github.io/util/contact.html)**.
+Ready to collaborate? **<a href="https://artitzco.github.io/" target="_blank">👉 Reach out on my contact page</a>**.
